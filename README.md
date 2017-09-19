@@ -24,6 +24,4 @@ model.
 
 Center view | Left view | Right view
 ------------ | ------------- | -------------
-![alt_text-1](https://github.com/oalahurikar/Behaviorial-Cloning/blob/master/Images%20and%20Graphs/Camera%20Center.jpg) | 
-![alt_text-2](https://github.com/oalahurikar/Behaviorial-Cloning/blob/master/Images%20and%20Graphs/Camera%20Left.jpg) |
-![alt_text-3](https://github.com/oalahurikar/Behaviorial-Cloning/blob/master/Images%20and%20Graphs/Camera%20Right.jpg) 
+![alt_text-1](https://github.com/oalahurikar/Behaviorial-Cloning/blob/master/Images%20and%20Graphs/Camera%20Center.jpg) | ![alt_text-2](https://github.com/oalahurikar/Behaviorial-Cloning/blob/master/Images%20and%20Graphs/Camera%20Left.jpg) | ![alt_text-3](https://github.com/oalahurikar/Behaviorial-Cloning/blob/master/Images%20and%20Graphs/Camera%20Right.jpg) 
