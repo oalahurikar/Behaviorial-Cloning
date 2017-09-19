@@ -25,3 +25,10 @@ model.
 Center view | Left view | Right view
 ------------ | ------------- | -------------
 ![alt_text-1](https://github.com/oalahurikar/Behaviorial-Cloning/blob/master/Images%20and%20Graphs/Camera%20Center.jpg) | ![alt_text-2](https://github.com/oalahurikar/Behaviorial-Cloning/blob/master/Images%20and%20Graphs/Camera%20Left.jpg) | ![alt_text-3](https://github.com/oalahurikar/Behaviorial-Cloning/blob/master/Images%20and%20Graphs/Camera%20Right.jpg) 
+
+### Solution Design Approach
+In designing model architecture I was looking to minimize over fitting and converging solution as fast as possible on given data. My first approach was to use simple model (LeNet) and then I used more powerful model from NVIDIA paper which showed a lot of improvement compared to earlier architecture, after minimizing over fitting and lot of tweaks my car able to complete track. 
+
+### Final Model Architecture and analysis.
+Following is final model architecture. 
+![alt_text-4](https://github.com/oalahurikar/Behaviorial-Cloning/blob/master/Images%20and%20Graphs/CNN%20Arcitecture.png) 
