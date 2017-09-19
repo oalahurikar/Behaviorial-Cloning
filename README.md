@@ -23,6 +23,7 @@ crash occurs. I took 2 laps of center lane and one lap of track from opposite di
 model.
 
 Center view | Left view | Right view
------------- | -------------
-![alt_text-1](https://github.com/oalahurikar/CarND-MPC-Project/blob/master/MPC%20Pic/MPC%201.PNG) | 
-![alt_text-2](https://github.com/oalahurikar/CarND-MPC-Project/blob/master/MPC%20Pic/MPC%203.PNG)
+------------ | ------------- | -------------
+![alt_text-1](https://github.com/oalahurikar/Behaviorial-Cloning/blob/master/Images%20and%20Graphs/Camera%20Center.jpg) | 
+![alt_text-2](https://github.com/oalahurikar/Behaviorial-Cloning/blob/master/Images%20and%20Graphs/Camera%20Left.jpg) |
+![alt_text-3](https://github.com/oalahurikar/Behaviorial-Cloning/blob/master/Images%20and%20Graphs/Camera%20Right.jpg) 
