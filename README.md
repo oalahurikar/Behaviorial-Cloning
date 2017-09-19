@@ -33,3 +33,9 @@ In designing model architecture I was looking to minimize over fitting and conve
 Following is final model architecture. 
 
 ![alt_text-1](https://github.com/oalahurikar/Behaviorial-Cloning/blob/master/Images%20and%20Graphs/CNN%20Arcitecture.png) 
+
+For above architecture at first I used 2048 data points for training which resulted in over fitting as shown in figure 2, to minimize over fitting I captured more training data and change in strategy of data logging explained in ‘Appropriate training data’ section. For 4825 data points I got result shown in figure 3.
+
+MSE with small data | MSE with Large data (Final solution)
+------------ | -------------
+![alt_text-1](https://github.com/oalahurikar/Behaviorial-Cloning/blob/master/MSE%20Error1.png) | ![alt_text-2](https://github.com/oalahurikar/Behaviorial-Cloning/blob/master/MSE%20Error2.png)
