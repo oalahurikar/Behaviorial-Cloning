@@ -31,4 +31,5 @@ In designing model architecture I was looking to minimize over fitting and conve
 
 ### Final Model Architecture and analysis.
 Following is final model architecture. 
-![alt_text-4](https://github.com/oalahurikar/Behaviorial-Cloning/blob/master/Images%20and%20Graphs/CNN%20Arcitecture.png) 
+
+![alt_text-1](https://github.com/oalahurikar/Behaviorial-Cloning/blob/master/Images%20and%20Graphs/CNN%20Arcitecture.png) 
